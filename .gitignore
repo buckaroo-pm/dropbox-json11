@@ -10,3 +10,13 @@ CMakeFiles
 CMakeScripts
 cmake_install.cmake
 install_manifest.txt
+
+# Buck
+.buckd
+buck-out
+.buckconfig.local
+.buckconfig.d
+
+# Buckaroo
+buckaroo
+buckaroo_macros.bzl
